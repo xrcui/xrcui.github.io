@@ -23,6 +23,7 @@ I am an assistant professor in the Department of Computer Science and Engineerin
 
 **Research Interests**: Neural rendering, 3D reconstruction, generative models, explainable AI.
 
+Multiple positions are available for PhD and MS students: I am always looking for motivated students to join the group. Don't hesitate to get in touch with me for more information.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
