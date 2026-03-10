@@ -11,12 +11,11 @@ profile:
   more_info: >
     <div style="text-align: center; font-size: 1.5rem; margin-top: 0.5rem;">
       <a href="mailto:xinrui.cui@unt.edu" title="Email"><i class="fa-solid fa-envelope"></i></a>&nbsp;
-      # <a href="https://github.com/xrcui" target="_blank" title="GitHub"><i class="fa-brands fa-github"></i></a>&nbsp;
-      # <a href="https://www.linkedin.com/in/xinrui-cui/" target="_blank" title="LinkedIn"><i class="fa-brands fa-linkedin"></i></a>&nbsp;
-      <a href="https://scholar.google.com/citations?user=wVJ7LIMAAAAJ" target="_blank" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>&nbsp;
-      # <a href="https://x.com/" target="_blank" title="X"><i class="fa-brands fa-x-twitter"></i></a>
+      <a href="https://github.com/xrcui" target="_blank" title="GitHub"><i class="fa-brands fa-github"></i></a>&nbsp;
+      <a href="https://scholar.google.com/citations?user=wVJ7LIMAAAAJ" target="_blank" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
     </div>
-
+  # <a href="https://www.linkedin.com/in/xinrui-cui/" target="_blank" title="LinkedIn"><i class="fa-brands fa-linkedin"></i></a>&nbsp;
+  
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 
