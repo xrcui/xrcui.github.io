@@ -55,8 +55,8 @@ The ultimate goal of my work is to enhance human life through advanced AI system
 My long-term vision is to develop AI technologies capable of perceiving, understanding, and interacting with 3D objects, people, and environments. To achieve this, my research group focuses on three primary objectives:
 
 1. **High-Fidelity 3D Reconstruction**: Developing robust methods for high-quality 3D reconstruction of real-world scenes from sparse or limited inputs.
-2. **Controllable & Explainable Generative Model**: Engineering efficient, photo-realistic generative model that offers precise 3D control and transparent, trustworthy underlying logic.
-3. **Physics-Informed World Simulator**: Advancing the frontier of large-scale 3D scene generation to create immersive, interactive, and physically consistent environments.
+2. **Controllable & Expressive Generative Model**: Developing frameworks that pair high-fidelity, creative synthesis with precise user constraints, enabling editing and manipulation of specific attributes like geometry, style, or motion without sacrificing visual quality.
+3. **Physics-Informed World Simulator**: Advancing the frontier of physics-grounded world models to recreate the physical world and simulate its response to physical actions. 
 4. **Explainable & Trustworthy AI**: Transforming opaque neural networks into transparent, human-understandable systems with explicit semantic control, ensuring that AI-driven decisions remain interpretable and reliable.
 
 
