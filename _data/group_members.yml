@@ -1,0 +1,29 @@
+- title: "PhD Students:"
+  members:
+    - name: "Haiyan Sun"
+      # note: "Meshy AI Fellowship 2025 Outstanding Prize"
+      website: 
+    - name: "Guiling Deng"
+      note: 
+      website: 
+
+# - title: "Visiting PhD Students:"
+#   members:
+#     - name: "xyz"
+#       note: 
+#       website: 
+
+- title: "Master Students:"
+  members:
+    - name: "Yuxuan Liu"
+      note: 
+      website: 
+    - name: "Panam Pareshkumar Dodia"
+      note:
+      website: 
+
+- title: "Undergraduate Students:"
+  members:
+    - name: "Lance Joseph Trasporto"
+      note: 
+      website: 
