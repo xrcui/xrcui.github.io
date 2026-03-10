@@ -57,6 +57,8 @@ My long-term vision is to develop AI technologies capable of perceiving, underst
 1. **High-Fidelity Reconstruction**: Developing robust methods for high-quality 3D reconstruction of real-world scenes from sparse or limited inputs.
 2. **Controllable & Explainable Synthesis**: Engineering efficient, photo-realistic image synthesis that offers precise 3D control and transparent, trustworthy underlying logic.
 3. **Physics-Informed & Scalable Generative Modeling**: Advancing the frontier of large-scale 3D scene generation to create immersive, interactive, and physically consistent environments.
+4. **Explainable & Trustworthy AI**: Transforming opaque neural networks into transparent, human-understandable systems with explicit semantic control, ensuring that AI-driven decisions remain interpretable and reliable.
+
 
 ---
 
