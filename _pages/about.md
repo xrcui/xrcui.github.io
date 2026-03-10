@@ -12,7 +12,7 @@ profile:
     <div style="text-align: center; font-size: 1.5rem; margin-top: 0.5rem;">
       <a href="mailto:xinrui.cui@unt.edu" title="Email"><i class="fa-solid fa-envelope"></i></a>&nbsp;
       <a href="https://github.com/xrcui" target="_blank" title="GitHub"><i class="fa-brands fa-github"></i></a>&nbsp;
-      <a href="https://scholar.google.com/citations?user=wVJ7LIMAAAAJ" target="_blank" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
+      <a href="https://scholar.google.com/citations?hl=en&user=wVJ7LIMAAAAJ&view_op=list_works&sortby=pubdate" target="_blank" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
     </div>
   # <a href="https://www.linkedin.com/in/xinrui-cui/" target="_blank" title="LinkedIn"><i class="fa-brands fa-linkedin"></i></a>&nbsp;
   
@@ -37,8 +37,9 @@ Put your address / P.O. box / other info right below your picture. You can also 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
 ## About Me
-I am an Assistant Professor in the Department of Computer Science and Engineering at the University of North Texas. My research operates at the convergence of **Computer Graphics, Computer Vision, and Artificial Intelligence**. 
+I am an Assistant Professor in the Department of Computer Science and Engineering at the University of North Texas. I spent one year as a postdoctoral scholar at University of British Columbia, working with Rabab Ward. I obtained my PhD at University of British Columbia, advised by Z. Jane Wang. Prior to my PhD, I received my Master's degree at Beihang University and Bachelor’s degree at Northeastern University.
 
+My research operates at the convergence of **Computer Graphics, Computer Vision, and Artificial Intelligence**. 
 The ultimate goal of my work is to enhance human life through advanced AI systems that strike a balance between environmental understanding and adaptive interaction. I am particularly driven by the development of a new generation of 3D reconstruction and rendering algorithms for human characters and complex scenes. By bridging **classical computer graphics pipelines** with **deep learning techniques**, I aim to create systems that are high-performing, interpretable, and physically grounded.
 
 ### Research Interests
