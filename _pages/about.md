@@ -64,14 +64,14 @@ My long-term vision is to develop AI technologies capable of perceiving, underst
 ### Current Members
 
 **PhD Students:**
-- Haiyan Sun
-- Guiling Deng
+- Haiyan Sun (2024Fall - Present)
+- Guiling Deng (2025Fall - Present)
 
 **Master Students:**
-- Yuxuan Liu
-- Panam Pareshkumar Dodia
+- Yuxuan Liu (2025Fall - Present)
+- Panam Pareshkumar Dodia (Graduated in 2025)
 
 **Undergraduate Students:**
-- Lance Joseph Trasporto
+- Lance Joseph Trasporto (2026Spring - Present)
 
 ---
