@@ -79,3 +79,26 @@ My long-term vision is to develop AI technologies capable of perceiving, underst
 - Lance Joseph Trasporto (2026Spring - Present)
 
 ---
+
+## Teaching
+
+**UNT CSCE 5210 — Fundamentals of Artificial Intelligence**
+- Spring 2026
+
+**UNT CSCE 4201 — Introduction to Artificial Intelligence**
+- Spring 2026
+
+**UNT CSCE 4205 — Introduction to Machine Learning**
+- Fall 2025, Fall 2024
+
+**UNT CSCE 5215 — Machine Learning**
+- Fall 2025, Spring 2025, Fall 2024, Spring 2024
+
+**UNT CSCE 6940 — Individual Research**
+- Spring 2026, Fall 2025, Spring 2025
+
+**UNT CSCE 5950 — Master's Thesis**
+- Spring 2026, Fall 2025, Spring 2025
+
+---
+
