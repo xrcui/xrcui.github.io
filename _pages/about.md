@@ -39,11 +39,10 @@ I am an Assistant Professor in the Department of Computer Science and Engineerin
 The ultimate goal of my work is to enhance human life through advanced AI systems that strike a balance between environmental understanding and adaptive interaction. I am particularly driven by the development of a new generation of 3D reconstruction and rendering algorithms for human characters and complex scenes. By bridging **classical computer graphics pipelines** with **deep learning techniques**, I aim to create systems that are high-performing, interpretable, and physically grounded.
 
 ### Research Interests
-* **Neural Representations & Rendering** (3D/4D Reconstruction)
-* **Physics-Grounded Modeling** (3D/4D Reconstruction & Human Motion)
+* **Neural Representations & Rendering**
+* **Physics-Grounded Dynamics**
 * **3D & Video World Simulators**
 * **Generative AI & Large-scale Scene Generation**
-* **Robotics** (Humanoid Robots & Dexterous Hands)
 * **Explainable AI (XAI)**
 
 ---
