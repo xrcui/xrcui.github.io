@@ -61,3 +61,17 @@ My long-term vision is to develop AI technologies capable of perceiving, underst
 **I am actively looking for motivated PhD and MS students to join my research group.** If you are interested in Computer Vision, Graphics, or the future of 3D AI, I encourage you to reach out. Our lab provides a collaborative environment focused on maintaining transparency, controllability, and user trust in AI systems. 
 
 > **Prospective Students:** Please feel free to get in touch via email with your CV and a brief description of your research interests and how they align with our current goals.
+
+### Current Members
+
+**PhD Students:**
+- Haiyan Sun
+- Guiling Deng
+
+**Master Students:**
+- Yuxuan Liu
+- Panam Pareshkumar Dodia
+
+**Undergraduate Students:**
+- Lance Joseph Trasporto
+

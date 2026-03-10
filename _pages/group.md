@@ -3,7 +3,7 @@ layout: page
 title: group
 permalink: /group/
 description: Members of our research group.
-nav: true
+nav: false
 nav_order: 7
 ---
 
