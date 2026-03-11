@@ -1,6 +1,11 @@
 ---
 ---
-<div class="row"{% if entry.highlight %} style="background-color: {{ entry.highlight }}; padding: 10px; border-radius: 8px; margin-bottom: 5px;"{% endif %}>
+<div
+  class="row"
+  {% if entry.highlight %}
+    style="background-color: {{ entry.highlight }}; padding: 10px; border-radius: 8px; margin-bottom: 5px;"
+  {% endif %}
+>
   {% assign has_thumbnail = false %}
   {% if site.enable_publication_thumbnails and entry.preview or entry.abbr %}
     {% assign has_thumbnail = true %}
