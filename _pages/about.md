@@ -55,7 +55,7 @@ The ultimate goal of my work is to enhance human life through advanced AI system
 
 ## Research Vision & Goals
 
-My long-term vision is to develop AI technologies capable of perceiving, understanding, and interacting with 3D objects, people, and environments. To achieve this, my research group focuses on three primary objectives:
+My long-term vision is to develop AI technologies capable of perceiving, understanding, and interacting with 3D objects, people, and environments. To achieve this, my research group focuses on four primary objectives:
 
 1. **High-Fidelity 3D Reconstruction**: Developing robust methods for high-quality 3D reconstruction of real-world scenes from sparse or limited inputs.
 2. **Controllable & Expressive Generative Model**: Developing frameworks that pair high-fidelity, creative synthesis with precise user constraints, enabling editing and manipulation of specific attributes like geometry, style, or semantic concepts.
