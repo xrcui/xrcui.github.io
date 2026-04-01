@@ -38,7 +38,8 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 ## About Me
 
-I am an Assistant Professor in the Department of Computer Science and Engineering at the University of North Texas. I spent one year as a postdoctoral scholar at University of British Columbia, working with Rabab Ward. I obtained my PhD at University of British Columbia, advised by Z. Jane Wang. Prior to my PhD, I received my Master's degree at Beihang University and Bachelor’s degree at Northeastern University.
+I am an Assistant Professor in the Department of Computer Science and Engineering at the University of North Texas. I spent one year as a postdoctoral scholar at University of British Columbia, working with Rabab Ward. I obtained my PhD at University of British Columbia, advised by Z. Jane Wang. 
+<!-- Prior to my PhD, I received my Master's degree at Beihang University and Bachelor’s degree at Northeastern University. -->
 
 My research operates at the convergence of **Computer Graphics, Computer Vision, and Artificial Intelligence**.
 The ultimate goal of my work is to enhance human life through advanced AI systems that strike a balance between environmental understanding and adaptive interaction. I am particularly driven by the development of a new generation of 3D reconstruction and rendering algorithms for human characters and complex scenes. By bridging **classical computer graphics pipelines** with **deep learning techniques**, I aim to create systems that are high-performing, interpretable, and physically grounded.
