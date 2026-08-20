@@ -75,17 +75,18 @@ My long-term vision is to develop AI technologies capable of perceiving, underst
 
 **PhD Students:**
 
-- Haiyan Sun (2024Fall - Present)
-- Guiling Deng (2025Fall - Present)
+- Haiyan Sun (2024 Fall - Present)
+- Guiling Deng (2025 Fall - Present)
+- Yuxuan Liu (2026 Fall - Present)
 
 **Master Students:**
 
-- Yuxuan Liu (2025Fall - Present)
+- Yuxuan Liu (Graduated in 2026)
 - Panam Pareshkumar Dodia (Graduated in 2025)
 
 **Undergraduate Students:**
 
-- Lance Joseph Trasporto (2026Spring - Present)
+- Lance Joseph Trasporto (2026 Spring)
 
 ---
 
@@ -101,15 +102,15 @@ My long-term vision is to develop AI technologies capable of perceiving, underst
 
 **UNT CSCE 4205 — Introduction to Machine Learning**
 
-- Fall 2025, Fall 2024
+- Fall 2026, Fall 2025, Fall 2024
 
 **UNT CSCE 5215 — Machine Learning**
 
-- Fall 2025, Spring 2025, Fall 2024, Spring 2024
+- Fall 2026, Fall 2025, Spring 2025, Fall 2024, Spring 2024
 
 **UNT CSCE 6940 — Individual Research**
 
-- Spring 2026, Fall 2025, Spring 2025
+- Fall 2026, Spring 2026, Fall 2025, Spring 2025
 
 **UNT CSCE 5950 — Master's Thesis**
 
